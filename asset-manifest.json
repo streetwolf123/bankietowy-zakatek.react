@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bankietowy-zakatek/static/css/main.e6c13ad2.css",
+    "main.css": "/bankietowy-zakatek/static/css/main.e2c767ff.css",
     "main.js": "/bankietowy-zakatek/static/js/main.f9dd6f96.js",
     "static/js/787.250f768b.chunk.js": "/bankietowy-zakatek/static/js/787.250f768b.chunk.js",
     "index.html": "/bankietowy-zakatek/index.html",
-    "main.e6c13ad2.css.map": "/bankietowy-zakatek/static/css/main.e6c13ad2.css.map",
+    "main.e2c767ff.css.map": "/bankietowy-zakatek/static/css/main.e2c767ff.css.map",
     "main.f9dd6f96.js.map": "/bankietowy-zakatek/static/js/main.f9dd6f96.js.map",
     "787.250f768b.chunk.js.map": "/bankietowy-zakatek/static/js/787.250f768b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.e2c767ff.css",
     "static/js/main.f9dd6f96.js"
   ]
 }
