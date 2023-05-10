@@ -1,9 +1,9 @@
-
+import { Header } from "./Header/header";
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+   <Header 
+    title={"Bankietowy Zakątek"}
+   />
   );
 }
 
